@@ -1,0 +1,27 @@
+
+CONCATENAR
+    let frase: string = "Ola Meu nome é ${nome}";
+
+Booleanos
+    let Casado: boolean = false;
+
+Number (decimal, Fracional)
+    let idade: number = 20;
+
+String
+    let nome: string = "Jorge";
+
+Array 
+    let lista:number [1,5,8];
+
+Any (QUALQUER VARIAVEL)
+    let variavelQualquer: any = 4;
+    let variavelQualquer: any = "String";
+    let:listaQualquer: any[] = [1, true, "nome"];     
+
+Void (Não tem variavel de retorno)
+    function mensagem(): void {
+        alert{'Isto é uma mensagem de teste'};
+    }
+
+Null & undefinied (Tipo nulo, ou indefinido)
