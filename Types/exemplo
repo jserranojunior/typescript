@@ -11,8 +11,11 @@ Number (decimal, Fracional)
 String
     let nome: string = "Jorge";
 
-Array 
+Array  
     let lista:number [1,5,8];
+
+ENUM
+    enum = [Item, item, item];
 
 Any (QUALQUER VARIAVEL)
     let variavelQualquer: any = 4;
